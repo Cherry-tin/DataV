@@ -1,9 +1,0 @@
-INSERT INTO `guangdong` VALUES ('广州市', 418);
-INSERT INTO `guangdong` VALUES ('佛山市', 228);
-INSERT INTO `guangdong` VALUES ('汕头市', 211);
-INSERT INTO `guangdong` VALUES ('东莞市', 194);
-INSERT INTO `guangdong` VALUES ('深圳市', 190);
-INSERT INTO `guangdong` VALUES ('惠州市', 176);
-INSERT INTO `guangdong` VALUES ('梅州市', 135);
-INSERT INTO `guangdong` VALUES ('揭阳市', 144);
-INSERT INTO `guangdong` VALUES ('湛江市', 158);
