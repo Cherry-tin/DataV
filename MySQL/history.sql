@@ -1,0 +1,5 @@
+INSERT INTO `history` VALUES ('2018年', 443, 479);
+INSERT INTO `history` VALUES ('2019年', 455, 496);
+INSERT INTO `history` VALUES ('2020年', 430, 479);
+INSERT INTO `history` VALUES ('2021年', 448, 488);
+INSERT INTO `history` VALUES ('2022年', 437, 478);
